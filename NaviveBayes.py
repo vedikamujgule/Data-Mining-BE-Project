@@ -1,4 +1,4 @@
-
+# Algorithm 1
 # Example of Naive Bayes implemented in Python
 import csv
 import random

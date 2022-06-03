@@ -1,4 +1,4 @@
-
+# Algorithm 2
 from random import seed
 from random import randrange
 from csv import reader
