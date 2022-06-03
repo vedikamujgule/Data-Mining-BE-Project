@@ -1,4 +1,4 @@
-# Data-Mining-BE-Project
+# Data-Mining Project
 
 Model to categorize and predict symptoms in medicinal data
 
